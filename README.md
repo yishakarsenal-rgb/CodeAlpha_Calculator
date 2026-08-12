@@ -1,0 +1,45 @@
+# CodeAlpha_Calculator - Interactive Web Calculator
+
+A sleek, responsive, black-and-white web application calculator built with HTML, CSS, and Vanilla JavaScript as part of the **CodeAlpha Frontend Development Internship**.
+
+---
+
+## 🚀 Features
+
+- **Arithmetic Operations:** Supports addition, subtraction, multiplication, division, and percentage calculations[cite: 2].
+- **Real-time Display:** Displays both current input and previous calculations/operations simultaneously[cite: 2].
+- **Input Editing:** Clear all (`AC`) and single-character delete (`DEL`) options[cite: 2].
+- **Keyboard Support:** Full physical keyboard bindings for rapid entry[cite: 2].
+- **Responsive Dark Theme:** Minimalist pure black-and-white UI optimized for desktop and mobile screen sizes[cite: 2].
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5:** Semantic structure and button grid[cite: 2]
+- **CSS3:** Custom styles, grid layout, and dark theme design[cite: 2]
+- **JavaScript (ES6+):** DOM manipulation, event handling, and calculation logic[cite: 2]
+
+---
+
+## ⌨️ Keyboard Shortcuts
+
+| Key                     | Action                          |
+| :---------------------- | :------------------------------ |
+| `0 - 9` and `.`         | Enter numbers and decimal point |
+| `+`, `-`, `*`, `/`, `%` | Arithmetic operators            |
+| `Enter` or `=`          | Calculate result                |
+| `Backspace`             | Delete last character           |
+| `Escape`                | Clear display screen            |
+
+---
+
+## 📂 Project Structure
+
+```text
+CodeAlpha_Calculator/
+│
+├── index.html    # HTML5 layout structure
+├── style.css     # Dark theme styles & grid layout
+└── script.js    # Calculator logic & keyboard support
+```
