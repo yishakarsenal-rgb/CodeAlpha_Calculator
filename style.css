@@ -112,3 +112,14 @@ body {
 .btn-zero {
   grid-column: span 2;
 }
+
+/* Footer Styling */
+.app-footer {
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #222222;
+  font-size: 0.85rem;
+  color: #888888;
+  letter-spacing: 0.5px;
+}
