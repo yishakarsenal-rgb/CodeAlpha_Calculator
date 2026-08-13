@@ -12,7 +12,7 @@ A sleek, responsive, black-and-white web application calculator built with HTML,
 
 - Input Editing: Clear all (`AC`) and single-character delete (`DEL`) options.
 
-- **Keyboard Support:** Full physical keyboard bindings for rapid entry[cite: 2].
+- Keyboard Support: Full physical keyboard bindings for rapid entry.
 
 - **Responsive Dark Theme:** Minimalist pure black-and-white UI optimized for desktop and mobile screen sizes[cite: 2].
 
