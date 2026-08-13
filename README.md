@@ -10,7 +10,7 @@ A sleek, responsive, black-and-white web application calculator built with HTML,
 
 - Real-time Display: Displays both current input and previous calculations/operations simultaneously.
 
-- **Input Editing:** Clear all (`AC`) and single-character delete (`DEL`) options[cite: 2].
+- Input Editing: Clear all (`AC`) and single-character delete (`DEL`) options.
 
 - **Keyboard Support:** Full physical keyboard bindings for rapid entry[cite: 2].
 
