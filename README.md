@@ -6,15 +6,19 @@ A sleek, responsive, black-and-white web application calculator built with HTML,
 
  Features
 
-- **Arithmetic Operations:** Supports addition, subtraction, multiplication, division, and percentage calculations[cite: 2].
+- Arithmetic Operations:** Supports addition, subtraction, multiplication, division, and percentage calculations[cite: 2].
+
 - **Real-time Display:** Displays both current input and previous calculations/operations simultaneously[cite: 2].
+
 - **Input Editing:** Clear all (`AC`) and single-character delete (`DEL`) options[cite: 2].
+
 - **Keyboard Support:** Full physical keyboard bindings for rapid entry[cite: 2].
+
 - **Responsive Dark Theme:** Minimalist pure black-and-white UI optimized for desktop and mobile screen sizes[cite: 2].
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 
 - **HTML5:** Semantic structure and button grid[cite: 2]
 - **CSS3:** Custom styles, grid layout, and dark theme design[cite: 2]
