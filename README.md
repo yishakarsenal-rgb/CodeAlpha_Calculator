@@ -2,7 +2,7 @@
 
 A sleek, responsive, black-and-white web application calculator built with HTML, CSS, and Vanilla JavaScript as part of the CodeAlpha Frontend Development Internship.
 
-## 🚀 Features
+# Features
 
 - **Arithmetic Operations:** Supports addition, subtraction, multiplication, division, and percentage calculations[cite: 2].
 - **Real-time Display:** Displays both current input and previous calculations/operations simultaneously[cite: 2].
