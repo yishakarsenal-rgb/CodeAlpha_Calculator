@@ -25,15 +25,3 @@ A sleek, responsive, black-and-white web application calculator built with HTML,
 | `Enter` or `=`          | Calculate result                |
 | `Backspace`             | Delete last character           |
 | `Escape`                | Clear display screen            |
-
----
-
-## 📂 Project Structure
-
-```text
-CodeAlpha_Calculator/
-│
-├── index.html    # HTML5 layout structure
-├── style.css     # Dark theme styles & grid layout
-└── script.js    # Calculator logic & keyboard support
-```
