@@ -14,7 +14,7 @@ A sleek, responsive, black-and-white web application calculator built with HTML,
 
 - HTML5: Semantic structure and button grid
 - CSS3: Custom styles, grid layout, and dark theme design
-- **JavaScript (ES6+):** DOM manipulation, event handling, and calculation logic[cite: 2]
+- JavaScript : DOM manipulation, event handling, and calculation logic
 
 ---
 
