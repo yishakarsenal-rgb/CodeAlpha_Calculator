@@ -10,9 +10,7 @@ A sleek, responsive, black-and-white web application calculator built with HTML,
 - Keyboard Support: Full physical keyboard bindings for rapid entry.
 - Responsive Dark Theme: Minimalist pure black-and-white UI optimized for desktop and mobile screen sizes.
 
----
-
-## 🛠️ Tech Stack
+# Tech Stack
 
 - **HTML5:** Semantic structure and button grid[cite: 2]
 - **CSS3:** Custom styles, grid layout, and dark theme design[cite: 2]
