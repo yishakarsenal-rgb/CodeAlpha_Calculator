@@ -16,9 +16,7 @@ A sleek, responsive, black-and-white web application calculator built with HTML,
 - CSS3: Custom styles, grid layout, and dark theme design
 - JavaScript : DOM manipulation, event handling, and calculation logic
 
----
-
-## ⌨️ Keyboard Shortcuts
+# Keyboard Shortcuts
 
 | Key                     | Action                          |
 | :---------------------- | :------------------------------ |
