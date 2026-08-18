@@ -1,6 +1,6 @@
 # Interactive Web Calculator
 
-A sleek, responsive, black-and-white web application calculator built with HTML, CSS, and Vanilla JavaScript as part of the CodeAlpha Frontend Development Internship.
+A sleek, responsive, black-and-white web application calculator built with HTML, CSS, and JavaScript as part of the CodeAlpha Frontend Development Internship.
 
 # Features
 
